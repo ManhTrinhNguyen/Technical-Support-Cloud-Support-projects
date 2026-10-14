@@ -6,7 +6,11 @@
 
 **Artifact Repository Manager Nexus**: (https://github.com/ManhTrinhNguyen/Nexus)
 
-**Python** (https://github.com/ManhTrinhNguyen/Python-Devops)
+**Python Monitoring, Incident Investigation & Automated Recovery** (https://github.com/ManhTrinhNguyen/Python-Devops)
+
+**Kubernetes Observability & Application Troubleshooting** (https://github.com/ManhTrinhNguyen/Prometheus)
+
+**AWS Infrastructure & Linux Application Deployment** (https://github.com/ManhTrinhNguyen/Terraform-Projects)
 
 **AWS**: (https://github.com/ManhTrinhNguyen/AWS/tree/main)
 
@@ -18,9 +22,7 @@
 
 **AWS EKS** (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
 
-**Terraform** (https://github.com/ManhTrinhNguyen/Terraform-Projects)
-
 **Ansible** (https://github.com/ManhTrinhNguyen/Ansible-)
 
-**Prometheus** (https://github.com/ManhTrinhNguyen/Prometheus)
+
 
