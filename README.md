@@ -6,6 +6,8 @@
 
 **Artifact Repository Manager Nexus**: (https://github.com/ManhTrinhNguyen/Nexus)
 
+**API SQL Troubleshooting Lab**: (https://github.com/ManhTrinhNguyen/api-sql-troubleshooting-lab)
+
 **Python Monitoring, Incident Investigation & Automated Recovery** (https://github.com/ManhTrinhNguyen/Python-Devops)
 
 **Kubernetes Observability & Application Troubleshooting** (https://github.com/ManhTrinhNguyen/Prometheus)
